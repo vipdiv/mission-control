@@ -1,0 +1,643 @@
+{
+  "tasks": [
+    {
+      "id": "t_mlvtpc29_9ru4io",
+      "title": "TEST TASK Fri 02/20/2026 22:33:01.48",
+      "notes": "created from curl",
+      "lane": "backlog",
+      "createdAt": "2026-02-21T04:33:01.521Z",
+      "updatedAt": "2026-02-21T04:33:01.521Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt2ege0_bks3np",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:13:11.928Z",
+      "updatedAt": "2026-02-19T06:13:11.928Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt2ege0_x81typ",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:13:11.928Z",
+      "updatedAt": "2026-02-19T06:13:11.928Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt2ege0_nvvkiw",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:13:11.928Z",
+      "updatedAt": "2026-02-19T06:13:11.928Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt2ege0_or50lf",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:13:11.928Z",
+      "updatedAt": "2026-02-19T06:13:11.928Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt2ege0_sww59o",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:13:11.928Z",
+      "updatedAt": "2026-02-19T06:13:11.928Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1xlum_9pncjz",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:00:05.854Z",
+      "updatedAt": "2026-02-19T06:00:05.854Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1xlun_9oizt3",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:00:05.854Z",
+      "updatedAt": "2026-02-19T06:00:05.854Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1xlun_aqxvv3",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:00:05.854Z",
+      "updatedAt": "2026-02-19T06:00:05.854Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1xlun_in6uen",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:00:05.854Z",
+      "updatedAt": "2026-02-19T06:00:05.854Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1xlun_ka8zp2",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T06:00:05.854Z",
+      "updatedAt": "2026-02-19T06:00:05.854Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1sgdv_flrpoj",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:56:05.491Z",
+      "updatedAt": "2026-02-19T05:56:05.491Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1sgdv_e100jv",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:56:05.491Z",
+      "updatedAt": "2026-02-19T05:56:05.491Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1sgdv_d3ge02",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:56:05.491Z",
+      "updatedAt": "2026-02-19T05:56:05.491Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1sgdv_ekp013",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:56:05.491Z",
+      "updatedAt": "2026-02-19T05:56:05.491Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1sgdv_lb2g6h",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:56:05.491Z",
+      "updatedAt": "2026-02-19T05:56:05.491Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1jnvn_8h0y10",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:49:15.299Z",
+      "updatedAt": "2026-02-19T05:49:15.299Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1jnvn_r1wx4l",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:49:15.299Z",
+      "updatedAt": "2026-02-19T05:49:15.299Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1jnvn_m7isk6",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:49:15.299Z",
+      "updatedAt": "2026-02-19T05:49:15.299Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1jnvn_5ag9a5",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:49:15.299Z",
+      "updatedAt": "2026-02-19T05:49:15.299Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1jnvn_wux8ry",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:49:15.299Z",
+      "updatedAt": "2026-02-19T05:49:15.299Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1fibq_jz3vt8",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:46:01.478Z",
+      "updatedAt": "2026-02-19T05:46:01.478Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1fibq_pq67m1",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:46:01.478Z",
+      "updatedAt": "2026-02-19T05:46:01.478Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1fibq_bmgrys",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:46:01.478Z",
+      "updatedAt": "2026-02-19T05:46:01.478Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1fibq_pj955v",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:46:01.478Z",
+      "updatedAt": "2026-02-19T05:46:01.478Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlt1fibq_cjux8s",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T05:46:01.478Z",
+      "updatedAt": "2026-02-19T05:46:01.478Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsri2qd_yc8ss6",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T01:08:05.077Z",
+      "updatedAt": "2026-02-19T01:08:05.077Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsri2qd_xnz74o",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T01:08:05.077Z",
+      "updatedAt": "2026-02-19T01:08:05.077Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsri2qd_fnnm7a",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T01:08:05.077Z",
+      "updatedAt": "2026-02-19T01:08:05.077Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsri2qd_2midnv",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T01:08:05.077Z",
+      "updatedAt": "2026-02-19T01:08:05.077Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsri2qd_s3fj6l",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-19T01:08:05.077Z",
+      "updatedAt": "2026-02-19T01:08:05.077Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlskq3nn_txd4tt",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T21:58:22.211Z",
+      "updatedAt": "2026-02-18T21:58:22.211Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlskq3nn_ubm0jg",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T21:58:22.211Z",
+      "updatedAt": "2026-02-18T21:58:22.211Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlskq3nn_hhbq03",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T21:58:22.211Z",
+      "updatedAt": "2026-02-18T21:58:22.211Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlskq3nn_yvgpf3",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T21:58:22.211Z",
+      "updatedAt": "2026-02-18T21:58:22.211Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlskq3nn_ncz848",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T21:58:22.211Z",
+      "updatedAt": "2026-02-18T21:58:22.211Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsh2prm_pv69pp",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T20:16:12.273Z",
+      "updatedAt": "2026-02-18T20:16:12.273Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsh2prm_adshuz",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T20:16:12.273Z",
+      "updatedAt": "2026-02-18T20:16:12.273Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsh2prm_ee0nx6",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T20:16:12.273Z",
+      "updatedAt": "2026-02-18T20:16:12.273Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsh2prm_kxqdwd",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T20:16:12.273Z",
+      "updatedAt": "2026-02-18T20:16:12.273Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlsh2prm_4zo5sl",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T20:16:12.273Z",
+      "updatedAt": "2026-02-18T20:16:12.273Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlscyz0i_iyhnvo",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T18:21:19.169Z",
+      "updatedAt": "2026-02-18T18:21:19.169Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlscyz0i_mcfit2",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T18:21:19.169Z",
+      "updatedAt": "2026-02-18T18:21:19.169Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlscyz0i_dzln0v",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T18:21:19.169Z",
+      "updatedAt": "2026-02-18T18:21:19.169Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlscyz0i_fzoklm",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T18:21:19.169Z",
+      "updatedAt": "2026-02-18T18:21:19.169Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlscyz0i_ix914b",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T18:21:19.169Z",
+      "updatedAt": "2026-02-18T18:21:19.169Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrmgmqj_x9vugi",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:59:13.435Z",
+      "updatedAt": "2026-02-18T05:59:13.435Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrmgmqj_rf04hr",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:59:13.435Z",
+      "updatedAt": "2026-02-18T05:59:13.435Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrmgmqj_5s7u5v",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:59:13.435Z",
+      "updatedAt": "2026-02-18T05:59:13.435Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrmgmqj_f623w0",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:59:13.435Z",
+      "updatedAt": "2026-02-18T05:59:13.435Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrmgmqj_85aaee",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:59:13.435Z",
+      "updatedAt": "2026-02-18T05:59:13.435Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrm9k3x_21ajoy",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:53:43.436Z",
+      "updatedAt": "2026-02-18T05:53:43.436Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrm9k3x_ad1wh7",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:53:43.436Z",
+      "updatedAt": "2026-02-18T05:53:43.436Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrm9k3x_u4te0q",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:53:43.436Z",
+      "updatedAt": "2026-02-18T05:53:43.436Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrm9k3x_fnp9ke",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:53:43.436Z",
+      "updatedAt": "2026-02-18T05:53:43.436Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrm9k3x_vrdwl8",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:53:43.436Z",
+      "updatedAt": "2026-02-18T05:53:43.436Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrl7b3v_9c4qxf",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:23:58.843Z",
+      "updatedAt": "2026-02-18T05:23:58.843Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrl7b3v_zsn9ic",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:23:58.843Z",
+      "updatedAt": "2026-02-18T05:23:58.843Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrl7b3v_smn07h",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:23:58.843Z",
+      "updatedAt": "2026-02-18T05:23:58.843Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrl7b3v_e07jvv",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:23:58.843Z",
+      "updatedAt": "2026-02-18T05:23:58.843Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrl7b3v_nh4tkg",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T05:23:58.843Z",
+      "updatedAt": "2026-02-18T05:23:58.843Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrjw3wu_mp7938",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T04:47:16.686Z",
+      "updatedAt": "2026-02-18T04:47:16.686Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrjw3wu_x3qa4b",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T04:47:16.686Z",
+      "updatedAt": "2026-02-18T04:47:16.686Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrjw3wu_feytn4",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T04:47:16.686Z",
+      "updatedAt": "2026-02-18T04:47:16.686Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrjw3wu_at0pzz",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T04:47:16.686Z",
+      "updatedAt": "2026-02-18T04:47:16.686Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlrjw3wu_yuz9t2",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-18T04:47:16.686Z",
+      "updatedAt": "2026-02-18T04:47:16.686Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlq6sg24_e1i2fw",
+      "title": "Cluster COTA pain points into 3 themes",
+      "notes": "Use Reddit + YouTube signals; write bullets.",
+      "lane": "backlog",
+      "createdAt": "2026-02-17T05:52:44.620Z",
+      "updatedAt": "2026-02-17T05:52:44.620Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlq6sg24_169wjy",
+      "title": "Write 8 How-Might-We questions for the top theme",
+      "notes": "Make them testable.",
+      "lane": "backlog",
+      "createdAt": "2026-02-17T05:52:44.620Z",
+      "updatedAt": "2026-02-17T05:52:44.620Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlq6sg24_cspg9l",
+      "title": "Create impact/effort matrix for 10 solution ideas",
+      "notes": "Mark top 3 quick wins.",
+      "lane": "backlog",
+      "createdAt": "2026-02-17T05:52:44.620Z",
+      "updatedAt": "2026-02-17T05:52:44.620Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlq6sg24_6l78f6",
+      "title": "Draft a 'COTA Pickup Survival' message template",
+      "notes": "Short SMS + longer version.",
+      "lane": "backlog",
+      "createdAt": "2026-02-17T05:52:44.620Z",
+      "updatedAt": "2026-02-17T05:52:44.620Z",
+      "source": "vinderprime"
+    },
+    {
+      "id": "t_mlq6sg24_8w5on4",
+      "title": "Define 1 experiment to validate demand this week",
+      "notes": "No live posting; prep only.",
+      "lane": "backlog",
+      "createdAt": "2026-02-17T05:52:44.620Z",
+      "updatedAt": "2026-02-17T05:52:44.620Z",
+      "source": "vinderprime"
+    }
+  ]
+}
